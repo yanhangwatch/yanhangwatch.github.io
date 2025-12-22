@@ -1,0 +1,20 @@
+theme: jekyll-theme-cayman
+title: 鹽行國中重劃區觀測站
+lang: zh-TW
+description: 聚焦台南永康「鹽行國中重劃區」，記錄城市發展與產業交界的實際樣貌。
+url: "https://yanhangwatch.github.io"
+baseurl: ""
+image: /thumbnail.jpg
+include:
+  - google3bf4e23d5a80ae35.html
+  - googleedc55f3f9d8133e8.html
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title/
+kramdown:
+  input: GFM
+  syntax_highlight_transformer: rouge
