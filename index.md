@@ -6,23 +6,23 @@
 
 ## 我在觀測什麼
 
-- **微觀**：重劃區內的設施、空間配置與日常運作
-- **宏觀**：人口密度、土地使用、噪音管制等結構性資料
-- **鹽論**：制度、資訊不對等與判斷風險的觀察
+- **🔎微觀**：重劃區內的設施、空間配置與日常運作
+- **🔭宏觀**：人口密度、土地使用、噪音管制等結構性資料
+- **🗣️鹽論**：制度、資訊不對等與判斷風險的觀察
 
 ---
 
 ## 代表觀測
 
-- 宏觀002｜人口密度的留白  
-- 鹽論002｜失去資訊，就是失去判斷
+- 🔭宏觀002｜人口密度的留白
+- 🗣️鹽論002｜失去資訊，就是失去判斷
 
 ---
 
 ## 相關連結
 
-- [Facebook 粉專](https://www.facebook.com/YanhangWatch)  
-- [Instagram ](https://www.instagram.com/yanhangwatch/) 
+- [鹽行國中重劃區觀測站的 Facebook](https://www.facebook.com/YanhangWatch)  
+- [鹽行國中重劃區觀測站的 Instagram](https://www.instagram.com/yanhangwatch/) 
 
 ---
 
