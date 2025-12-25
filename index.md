@@ -29,10 +29,10 @@ image: https://yanhangwatch.github.io/thumbnail.jpg
 
 ## 相關連結
 
-- [Facebook](https://www.facebook.com/YanhangWatch) 
-- [Instagram](https://www.instagram.com/yanhangwatch/)
-- [Threads](https://www.threads.com/@yanhangwatch)
-- [YouTube](https://www.youtube.com/@yanhangwatch)
+- <a rel="me" href="https://www.facebook.com/YanhangWatch">Facebook</a>
+- <a rel="me" href="https://www.instagram.com/yanhangwatch/">Instagram</a>
+- <a rel="me" href="https://www.threads.net/@yanhangwatch">Threads</a>
+- <a rel="me" href="https://www.youtube.com/@yanhangwatch">YouTube</a>
 
 ---
 
