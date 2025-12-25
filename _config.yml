@@ -2,3 +2,5 @@ theme: jekyll-theme-cayman
 title: 鹽行國中重劃區觀測站
 description: 聚焦台南永康「鹽行國中重劃區」，記錄城市發展與產業交界的實際樣貌。
 image: /thumbnail.jpg
+include:
+  - google3bf4e23d5a80ae35.html
