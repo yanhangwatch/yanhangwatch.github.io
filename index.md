@@ -1,3 +1,9 @@
+<head>
+  <meta property="og:image" content="https://yanhangwatch.github.io/thumbnail.jpg">
+  <meta property="og:title" content="鹽行國中重劃區觀測站">
+  <meta property="og:description" content="聚焦台南永康「鹽行國中重劃區」，記錄城市發展與產業交界的實際樣貌。">
+</head>
+
 # 鹽行國中重劃區觀測站
 
 記錄城市、設施與資訊如何被看見，或如何消失。
