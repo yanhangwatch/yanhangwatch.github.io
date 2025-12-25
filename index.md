@@ -16,13 +16,15 @@
 
 - 🔭宏觀002｜人口密度的留白
 - 🗣️鹽論002｜失去資訊，就是失去判斷
-
+- 🗣️鹽論001｜品牌之前，誠實先行
 ---
 
 ## 相關連結
 
-- [Facebook](https://www.facebook.com/YanhangWatch)  
-- [Instagram](https://www.instagram.com/yanhangwatch/) 
+- [Facebook](https://www.facebook.com/YanhangWatch) 
+- [Instagram](https://www.instagram.com/yanhangwatch/)
+- [Threads](https://www.threads.com/@yanhangwatch)
+- [YouTube](https://www.youtube.com/@yanhangwatch)
 
 ---
 
