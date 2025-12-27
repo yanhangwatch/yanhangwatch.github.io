@@ -2,7 +2,7 @@
 layout: default
 title: 鹽行國中重劃區觀測站
 description: 聚焦台南市永康區「鹽行國中重劃區」，整理人口密度、土地使用與周邊設施等城市觀測資料。
-image: https://yanhangwatch.github.io/thumbnail.jpg
+image: https://yanhangwatch.github.io/assets/img/OG/thumbnail.jpg
 ---
 
 # 鹽行國中重劃區觀測站
