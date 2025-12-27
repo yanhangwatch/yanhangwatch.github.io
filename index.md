@@ -2,7 +2,7 @@
 layout: default
 title: 鹽行國中重劃區觀測站
 description: 聚焦台南市永康區「鹽行國中重劃區」，整理人口密度、土地使用與周邊設施等城市觀測資料。
-image: https://yanhangwatch.github.io/assets/img/OG/thumbnail.jpg
+image: /assets/img/OG/thumbnail.jpg
 ---
 
 # 鹽行國中重劃區觀測站
@@ -37,6 +37,10 @@ image: https://yanhangwatch.github.io/assets/img/OG/thumbnail.jpg
 - 🗣️ 鹽論001｜品牌之前，誠實先行  
 
 ---
+## 最新公告
+- [平台定位與內容架構說明（2026）](https://yanhangwatch.github.io/vision/)
+
+---
 
 ## 相關平台
 
@@ -49,6 +53,4 @@ image: https://yanhangwatch.github.io/assets/img/OG/thumbnail.jpg
 
 ---
 
-## 免責聲明
-
-本站內容整理自公開資料與實地觀察，部分圖像與資料出處為政府公開資訊，經整理重製使用，僅供資訊紀錄與研究參考，不構成投資、購屋或任何形式之建議，亦不代表任何機關立場。實際情況請以政府機關公告與正式文件為準。
+> 本站內容整理自公開資料與實地觀察，部分圖像與資料出處為政府公開資訊，經整理重製使用，僅供資訊紀錄與研究參考，不構成投資、購屋或任何形式之建議，亦不代表任何機關立場。實際情況請以政府機關公告與正式文件為準。
