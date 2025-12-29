@@ -38,7 +38,7 @@ image: /assets/img/OG/thumbnail.jpg
 
 ---
 ## 最新公告
-- [平台定位與內容架構說明（2026）](https://yanhangwatch.github.io/vision/)
+- [鹽行國中重劃區觀測站｜平台定位與內容架構說明（2026）](/vision/)
 
 ---
 
