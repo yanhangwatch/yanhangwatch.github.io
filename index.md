@@ -22,36 +22,33 @@ image: /assets/img/OG/thumbnail.jpg
 ---
 
 ## 🔎 微觀｜近期紀錄
+
 {% assign micro = site.categories.micro | sort: "date" | reverse %}
 <ul>
 {% for post in micro limit:3 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small style="color: #999;">({{ post.date | date: "%m/%d" }})</small></li>
-{% empty %}
-  <li style="color: #888; list-style: none;">Coming soon</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
 ---
 
 ## 🔭 宏觀｜近期紀錄
+
 {% assign macro = site.categories.macro | sort: "date" | reverse %}
 <ul>
 {% for post in macro limit:3 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small style="color: #999;">({{ post.date | date: "%m/%d" }})</small></li>
-{% empty %}
-  <li style="color: #888; list-style: none;">Coming soon</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
 ---
 
 ## 🗣️ 鹽論｜近期出現
+
 {% assign salt = site.categories.salt | sort: "date" | reverse %}
 <ul>
 {% for post in salt limit:3 %}
-  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> <small style="color: #999;">({{ post.date | date: "%m/%d" }})</small></li>
-{% empty %}
-  <li style="color: #888; list-style: none;">Coming soon</li>
+  <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 
