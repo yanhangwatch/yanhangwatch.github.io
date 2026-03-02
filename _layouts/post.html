@@ -56,10 +56,31 @@
     <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
   </header>
 
-  <main class="post-content">
-    <h2>{{ page.title }}</h2>
+<main class="post-content">
+  <h2>{{ page.title }}</h2>
+
+  {% assign img_index = 0 %}
+  {% capture processed_content %}
     {{ content }}
-  </main>
+  {% endcapture %}
+
+  {% assign parts = processed_content | split: '<img' %}
+
+  {% for part in parts %}
+    {% if forloop.first %}
+      {{ part }}
+    {% else %}
+      {% assign img_index = img_index | plus: 1 %}
+
+      {% if img_index == 1 %}
+        <img{{ part }}
+      {% else %}
+        <img loading="lazy" decoding="async"{{ part }}
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+
+</main>
 
   <footer>
     <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
