@@ -37,7 +37,7 @@ image: /assets/img/OG/thumbnail.webp
   {% for post in site.posts limit:3 %}
 <article style="margin-bottom:1.5em;">
   <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-  <p>{{ post.excerpt | strip_html | truncatewords:40 }}</p>
+  <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
 </article>
   {% endfor %}
 {% else %}
