@@ -1,14 +1,14 @@
 ---
 
 layout: default
-title: 鹽行國中重劃區觀測站：平台定位與內容架構說明（2026）
+title: 觀測指南：平台定位與內容架構說明（2026）
 description: 鹽行國中重劃區觀測站的觀測方向與核心方法，說明本站的定位、架構與價值。
 permalink: /vision/
 image: /assets/img/vision/zoningmap.webp
 
 ---
 
-# 鹽行國中重劃區觀測站：平台定位與內容架構說明（2026）
+# 觀測指南：平台定位與內容架構說明（2026）
 
 ![鹽行國中重劃區土地使用分區圖](assets/img/vision/zoningmap.webp)
 
