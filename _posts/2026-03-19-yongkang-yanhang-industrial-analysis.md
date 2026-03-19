@@ -11,16 +11,7 @@ excerpt_separator: "<!--more-->"
 
 ---
 
-## 區域概況：重劃區鄰接既有工業使用
-
-- 西北側：鄰近金屬精密加工產業  
-- 南側：鄰近鋼鐵線材製造業  
-
-產業型態以製造業為主，涉及金屬加工與表面處理等製程。
-
----
-
-## 西北側產業：可成科技
+## 西北側產業：可成科技總部暨仁愛廠區
 
 ![可成科技仁愛廠區土地使用分區圖](/assets/img/micro/2026-03-yongkang-yanhang-industrial/catcher-technology-land-use-zoning-map.webp)
 
@@ -32,8 +23,6 @@ excerpt_separator: "<!--more-->"
 - 另設永科工廠、南科工廠及中國大陸廠區
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.2245002798236!2d120.24102507477106!3d23.052229615221897!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e7756cce8d957%3A0x19ebca07fbec23b2!2z5Y-v5oiQ56eR5oqA6IKh5Lu95pyJ6ZmQ5YWs5Y-4!5e0!3m2!1szh-TW!2stw!4v1773927979567!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
----
 
 ### 產業類型與製程
 可成科技屬金屬合金製造產業中游，製程包含：
@@ -49,8 +38,6 @@ excerpt_separator: "<!--more-->"
 
 ![可成科技總部暨仁愛廠區外觀(2026)](/assets/img/micro/2026-03-yongkang-yanhang-industrial/catcher-technology-headquarters-exterior-2026.webp)
 
----
-
 ### 薪資與就業結構
 - 員工人數：約 2,950 人  
 - 非主管職全時員工：約 2,518 人  
@@ -58,8 +45,6 @@ excerpt_separator: "<!--more-->"
 薪資水準：
 - 平均年薪：約 73.9 萬元  
 - 年薪中位數：約 62.5 萬元  
-
----
 
 ### 環境管理與污染列管
 該廠屬環保法規列管事業，涵蓋：
@@ -79,8 +64,6 @@ excerpt_separator: "<!--more-->"
 
 ![可成科技仁愛廠區廢水處理廠外觀(2026)](/assets/img/micro/2026-03-yongkang-yanhang-industrial/catcher-technology-renai-plant-wastewater-treatment-exterior-2026.webp)
 
----
-
 ### 裁罰紀錄（摘要）
 - 製程與許可內容不符  
 - 化學物質貯存位置不符規定  
@@ -90,7 +73,7 @@ excerpt_separator: "<!--more-->"
 
 ---
 
-## 南側產業：佳大世界
+## 南側產業：佳大世界總公司及永康一廠
 
 ![佳大世界永康一廠土地使用分區圖](/assets/img/micro/2026-03-yongkang-yanhang-industrial/chia-ta-world-land-use-zoning-map.webp)
 
@@ -101,8 +84,6 @@ excerpt_separator: "<!--more-->"
 - 另設永康二廠（永康工業區）、林園廠等  
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d471038.98947865475!2d120.01264848437528!3d22.72853481191938!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e770062247473%3A0xb2a06aa75bb73890!2z5L2z5aSn5LiW55WM6IKh5Lu95pyJ6ZmQ5YWs5Y-4KOawuOW6t-S4gOW7oCk!5e0!3m2!1szh-TW!2stw!4v1773928230043!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
----
 
 ### 產業類型與製程
 佳大世界屬鋼鐵線材加工產業，製程包含：
@@ -123,8 +104,6 @@ excerpt_separator: "<!--more-->"
 
 ![佳大世界總公司外觀(2026)](/assets/img/micro/2026-03-yongkang-yanhang-industrial/chia-ta-world-headquarters-exterior.webp)
 
----
-
 ### 薪資與就業結構
 - 員工人數：約 109 人  
 - 非主管職全時員工：約 103 人  
@@ -132,8 +111,6 @@ excerpt_separator: "<!--more-->"
 薪資水準：
 - 平均年薪：約 54.9 萬元  
 - 年薪中位數：約 53.8 萬元  
-
----
 
 ### 環境管理與污染列管
 該廠製程涉及酸洗與鍍鋅，屬列管污染防制事業。
@@ -145,8 +122,6 @@ excerpt_separator: "<!--more-->"
 2024 年廢棄物：
 - 總量：約 437.36 公噸  
 - 廢酸：約 336.80 公噸  
-
----
 
 ### 裁罰紀錄（摘要）
 - 污染防制專責人員未專任  
@@ -164,8 +139,6 @@ excerpt_separator: "<!--more-->"
 依 2024 年公司年報、永續報告書等公開資料顯示，廠區排放及廢棄物量均具一定規模，例如可成科技 VOCs 排放 39.37 公噸、佳大世界廢棄物總量 437.36 公噸，其中廢酸占 336.80 公噸。此外，從業人員薪資分布落在**年薪約 50–70 萬元區間，與南科半導體等高薪產業有所不同**。
 
 綜合來看，永康鹽行區域周邊製造業仍長期存在，相關製程涉及列管化學處理，其薪資水平與規模資訊可作為了解區域就業與生活環境的參考，呈現工業設施與重劃住宅並存的區域特性。
-
-
 
 首次張貼日：2026/03/19（最後更新日：2026/03/19）
 
