@@ -5,9 +5,8 @@ date: 2026-03-19
 categories: [micro]
 image: /assets/img/micro/2026-03-yongkang-yanhang-industrial/catcher-technology-headquarters-exterior-2026.webp
 excerpt_separator: "<!--more-->"
----
 
-# 鹽行國中重劃區深度觀察：可成科技與佳大世界產業紀實
+---
 
 台南永康鹽行國中重劃區周邊，除住宅與學校開發外，西北側與南側亦鄰接既有工業使用土地。本文整理區域交界的主要製造業據點，從 **產業類型、就業薪資與環境列管情形** 簡單介紹，提供區域背景參考。
 
