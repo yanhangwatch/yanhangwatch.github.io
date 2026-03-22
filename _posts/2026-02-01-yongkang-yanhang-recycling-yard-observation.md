@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鹽行國中重劃區深度觀察：台南永康清潔隊資源回收場【城市循環篇】"
+title: "鹽行國中重劃區｜台南永康清潔隊資源回收場(城市循環)"
 date: 2026-02-01
 categories: [micro]
 image: /assets/img/micro/2026-02-yongkang-recycling/yongkang-yanhang-recycling-yard-entrance-2025.webp
