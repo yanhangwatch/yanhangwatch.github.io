@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "鹽行國中重劃區｜可成科技與佳大世界(產業)"
+title: "鹽行國中重劃區｜可成科技與佳大世界【產業篇】"
 date: 2026-03-19
 categories: [micro]
 image: /assets/img/micro/2026-03-yongkang-yanhang-industrial/catcher-technology-headquarters-exterior-2026.webp
