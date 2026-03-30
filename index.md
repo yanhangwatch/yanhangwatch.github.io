@@ -1,7 +1,5 @@
 ---
 layout: default
-title: "廣告之外的另一種視角"
-seller_og_title: "廣告之外的另一種視角｜鹽行國中重劃區觀測站"
 description: 民間整理台南永康鹽行國中重劃區的環境、產業設施與都市發展觀察，透過公開資料與實地紀錄，呈現購屋廣告之外的另一種資訊視角。
 image: /assets/img/OG/thumbnail.webp
 ---
