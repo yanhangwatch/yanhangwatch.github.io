@@ -1,6 +1,6 @@
 ---
 layout: default
-description: 民間整理台南永康鹽行國中重劃區的環境、產業設施與都市發展觀察，透過公開資料與實地紀錄，呈現購屋廣告之外的另一種資訊視角。
+description: 廣告之外的另一種視角：獨立整理台南永康鹽行國中重劃區的環境、產業設施與都市發展，透過公開資料與實地觀察記錄地方變化。
 image: /assets/img/OG/thumbnail.webp
 ---
 
