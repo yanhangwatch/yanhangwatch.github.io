@@ -35,7 +35,7 @@ excerpt_separator: "<!--more-->"
 
 ## 重劃區西北側的既存公共設施：永康清潔隊資源回收場
 
-然而，在鹽行國中重劃區內的西北側，仍保留一處已使用數十年的環保設施：**台南市政府環境保護局永康區資源回收場**。它在 Google 地圖的名稱是 **永康清潔隊資源回收中心**。
+然而，在鹽行國中重劃區內的西北側，仍保留一處已使用數十年的環保設施：**台南市政府環境保護局永康區資源回收場**。它在 Google 地圖的名稱是 **永康清潔隊資源回收中心**（或叫 **永康區回收場**）。
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3671.308303770739!2d120.24369739999997!3d23.049156!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x346e77002673ba07%3A0x1d9f5efc0b54d566!2z5rC45bq35riF5r2U6ZqK6LOH5rqQ5Zue5pS25Lit5b-D!5e0!3m2!1szh-TW!2stw!4v1769973901859!5m2!1szh-TW!2stw" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
